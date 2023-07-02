@@ -1,4 +1,4 @@
-const nextConfig = {
-  distDir: "src",
+module.exports = {
   reactStrictMode: true,
-};
+  swcMinify: true
+}
